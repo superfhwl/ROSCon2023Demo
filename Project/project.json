@@ -13,12 +13,12 @@
         "ROSCon2023Demo"
     ],
     "icon_path": "preview.png",
-    "engine": "o3de",
+    "engine": "orcaengine_merge",
     "external_subdirectories": [
         "Gem"
     ],
     "restricted": "ROSCon2023Demo",
-    "engine_version": "2.1.0",
+    "engine_version": "3.0.0",
     "gem_names": [
         "ProteusRobot",
         "ROS2",
